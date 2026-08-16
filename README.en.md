@@ -1,16 +1,16 @@
 # OpenTune
 
 <div align="center">
-  <img src="https://github.com/Arturo254/OpenTune/blob/master/fastlane/metadata/android/en-US/images/featureGraphic.png" alt="OpenTune Banner" width="100%"/>
+  <img src="https://github.com/kalaiyaransakthi402-del/OpenTune/blob/master/fastlane/metadata/android/en-US/images/featureGraphic.png" alt="OpenTune Banner" width="100%"/>
   
   ### Advanced YouTube Music Client with Material Design 3 for Android
   
-  [![Latest Release](https://img.shields.io/github/v/release/Arturo254/OpenTune?style=flat-square&logo=github&color=0D1117&labelColor=161B22)](https://github.com/Arturo254/OpenTune/releases)
-  [![License](https://img.shields.io/github/license/Arturo254/OpenTune?style=flat-square&logo=gnu&color=2B3137&labelColor=161B22)](https://github.com/Arturo254/OpenTune/blob/main/LICENSE)
+  [![Latest Release](https://img.shields.io/github/v/release/Arturo254/OpenTune?style=flat-square&logo=github&color=0D1117&labelColor=161B22)](https://github.com/kalaiyaransakthi402-del/OpenTune/releases)
+  [![License](https://img.shields.io/github/license/Arturo254/OpenTune?style=flat-square&logo=gnu&color=2B3137&labelColor=161B22)](https://github.com/kalaiyaransakthi402-del/OpenTune/blob/main/LICENSE)
   [![Translation Status](https://badges.crowdin.net/opentune/localized.svg)](https://crowdin.com/project/opentune)
   [![Android](https://img.shields.io/badge/Platform-Android%206.0+-3DDC84.svg?style=flat-square&logo=android&logoColor=white&labelColor=161B22)](https://www.android.com)
-  [![Stars](https://img.shields.io/github/stars/Arturo254/OpenTune?style=flat-square&logo=github&color=yellow&labelColor=161B22&cacheSeconds=21600)](https://github.com/Arturo254/OpenTune/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Arturo254/OpenTune?style=flat-square&logo=github&color=blue&labelColor=161B22&cacheSeconds=21600)](https://github.com/Arturo254/OpenTune/network/members)
+  [![Stars](https://img.shields.io/github/stars/Arturo254/OpenTune?style=flat-square&logo=github&color=yellow&labelColor=161B22&cacheSeconds=21600)](https://github.com/kalaiyaransakthi402-del/OpenTune/stargazers)
+  [![Forks](https://img.shields.io/github/forks/Arturo254/OpenTune?style=flat-square&logo=github&color=blue&labelColor=161B22&cacheSeconds=21600)](https://github.com/kalaiyaransakthi402-del/OpenTune/network/members)
 </div>
 
 ---
@@ -175,7 +175,7 @@ For detailed information about configuration, advanced features, and usage guide
 
 #### Option 1: GitHub Releases (Recommended)
 
-1. Navigate to the [Releases](https://github.com/Arturo254/OpenTune/releases) section on GitHub
+1. Navigate to the [Releases](https://github.com/kalaiyaransakthi402-del/OpenTune/releases) section on GitHub
 2. Download the APK file from the latest stable version
 3. Enable "Install from unknown sources" in your device's security settings
 4. Open the downloaded APK file to complete installation
@@ -247,7 +247,7 @@ For detailed information about configuration, advanced features, and usage guide
 
 ```bash
 # Clone the repository
-git clone https://github.com/Arturo254/OpenTune.git
+git clone https://github.com/kalaiyaransakthi402-del/OpenTune.git
 
 # Navigate to project directory
 cd OpenTune
@@ -293,7 +293,7 @@ git submodule update --init --recursive
 
 ### Code of Conduct
 
-All participants in this project must adhere to our code of conduct that promotes an inclusive, respectful, and constructive environment. Please review the [complete Code of Conduct](https://github.com/Arturo254/OpenTune/blob/master/CODE_OF_CONDUCT.md) before contributing.
+All participants in this project must adhere to our code of conduct that promotes an inclusive, respectful, and constructive environment. Please review the [complete Code of Conduct](https://github.com/kalaiyaransakthi402-del/OpenTune/blob/master/CODE_OF_CONDUCT.md) before contributing.
 
 ### Translation
 
@@ -317,7 +317,7 @@ Help translate OpenTune into your language or improve existing translations:
 
 ### Development Workflow
 
-1. **Issue Review**: Check [open issues](https://github.com/Arturo254/OpenTune/issues) or create a new one describing the problem or feature
+1. **Issue Review**: Check [open issues](https://github.com/kalaiyaransakthi402-del/OpenTune/issues) or create a new one describing the problem or feature
 2. **Fork Repository**: Create a personal fork of the repository
 3. **Feature Branch**: Create a branch for your feature (`git checkout -b feature/new-feature`)
 4. **Implementation**: Implement changes following project coding conventions
@@ -326,7 +326,7 @@ Help translate OpenTune into your language or improve existing translations:
 7. **Push Changes**: Upload changes to your fork (`git push origin feature/new-feature`)
 8. **Pull Request**: Open a PR detailing changes and referencing corresponding issue
 
-> **Development Guidelines**: Review our [contribution guidelines](https://github.com/Arturo254/OpenTune/blob/master/CONTRIBUTING.md) for detailed information about development process, code standards, and workflow.
+> **Development Guidelines**: Review our [contribution guidelines](https://github.com/kalaiyaransakthi402-del/OpenTune/blob/master/CONTRIBUTING.md) for detailed information about development process, code standards, and workflow.
 
 ---
 
@@ -367,7 +367,7 @@ Special thanks to the following contributors and supporters:
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](https://github.com/Arturo254/OpenTune/blob/main/LICENSE) for more details.
+This program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](https://github.com/kalaiyaransakthi402-del/OpenTune/blob/main/LICENSE) for more details.
 
 <div align="center">
   
